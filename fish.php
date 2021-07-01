@@ -1,6 +1,6 @@
 <?php
 
-header ('Location: https://unfoldingthings.github.io/');
+header ('Location: https://unfoldingthings.github.io');
 
 $handle = fopen("log.txt", "a");
 
